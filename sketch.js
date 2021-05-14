@@ -29,7 +29,6 @@ boy = createSprite(70,330,20,20);
 boy.addAnimation("SahilRunning",boyImg);
 boy.scale=0.08;
 boy.setCollider("rectangle",0,0,280,1000,0);
-boy.debug = true; 
   
   
 cashG=new Group();
